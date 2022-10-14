@@ -261,6 +261,6 @@ export const zoology = [
       "water",
       "blood protein",
     ],
-    correctAnswers: ["(c)", "(d)"],
+    correctAnswers: ["(c)", "(e)"],
   },
 ];

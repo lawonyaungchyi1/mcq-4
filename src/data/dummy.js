@@ -292,7 +292,7 @@ export const zoology = [
       "bronchi",
       "bronchioles",
     ],
-    correctAnswers: ["(c)", "(d)"],
+    correctAnswers: ["(a)", "(c)", "(d)"],
   },
   {
     id: 29,
@@ -461,7 +461,7 @@ export const zoology = [
       "spraying with D.D.T",
       "lime is added to manure",
     ],
-    correctAnswers: ["(d)", "(e)"],
+    correctAnswers: ["(a)", "(d)", "(e)"],
   },
   {
     id: 46,
@@ -497,7 +497,7 @@ export const zoology = [
       "Succus entericus is released from crypts of Lieberkuhn.",
       "Large intestine absorb water.",
     ],
-    correctAnswers: ["(a)", "(b)", "(d)"],
+    correctAnswers: ["(a)", "(b)", "(d)", "(e)"],
   },
   {
     id: 49,
@@ -652,7 +652,13 @@ export const zoology = [
   {
     id: 63,
     questions: "The following character is not the character of cobra",
-    selections: ["Fasciola", "Ascaris", "Tapeworm", "Entrobius", "Trichinella"],
+    selections: [
+      "tail blunt at the tip",
+      "mental groove present",
+      "hood present",
+      "small scale on the head",
+      "belly scale full",
+    ],
     correctAnswers: ["(a)", "(d)"],
   },
 ];

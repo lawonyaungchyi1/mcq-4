@@ -295,7 +295,7 @@ export const zoology = [
     correctAnswers: ["(c)", "(d)"],
   },
   {
-    id: 28,
+    id: 29,
     questions: "Closed circulatory system includes",
     selections: [
       "crustaceans",
@@ -307,22 +307,16 @@ export const zoology = [
     correctAnswers: ["(c)", "(d)", "(e)"],
   },
   {
-    id: 29,
+    id: 30,
     questions: "Locomotion of Protozoans are by",
     selections: ["flagella", "pseudopodia", "cilia", "tentacle", "tube feet"],
     correctAnswers: ["(a)", "(b)", "(c)"],
   },
   {
-    id: 30,
+    id: 31,
     questions: "Phylum Platyhelminthes  includes following parasites",
     selections: ["Fasciola", "Ascaris", "Tapeworm", "Entrobius", "Trichinella"],
     correctAnswers: ["(a)", "(c)"],
-  },
-  {
-    id: 31,
-    questions: "The following character is not the character of cobra",
-    selections: ["Fasciola", "Ascaris", "Tapeworm", "Entrobius", "Trichinella"],
-    correctAnswers: ["(a)", "(d)"],
   },
   {
     id: 32,
@@ -654,5 +648,11 @@ export const zoology = [
       "PNS",
     ],
     correctAnswers: ["(c)", "(d)", "(e)"],
+  },
+  {
+    id: 63,
+    questions: "The following character is not the character of cobra",
+    selections: ["Fasciola", "Ascaris", "Tapeworm", "Entrobius", "Trichinella"],
+    correctAnswers: ["(a)", "(d)"],
   },
 ];

@@ -509,7 +509,7 @@ export const zoology = [
       "Succus entericus is released from crypts of Lieberkuhn.",
       "Large intestine absorb water.",
     ],
-    correctAnswers: ["(a)", "(b)", "(d)"],
+    correctAnswers: ["(a)", "(b)", "(d)", "(e)"],
   },
   {
     id: 50,
